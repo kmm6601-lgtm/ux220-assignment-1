@@ -1,4 +1,4 @@
 ## Research 
 The article more so reflects on e-portfolios rather than students goals. However in comparison to the article my website focuses solely on my goals for the future whether it is academically or financially. The article touches on displaying your personal works, self reflection and feedback from professors. In contrast this article is researched on high school students rather than university students. But many of the research and points they make on self regulation for goals and learning goals can be applied to university students as well. Ultimately even though this article isnt what I had in mind to contrast and compare my personal goals to, it was still very interesting on how they discuss the influence of goal setting.
-
+## Article Reference
 Chang, C. C., Liang, C., Chou, P. N., & Liao, Y. M. (2018). Using e-portfolio for learning goal setting to facilitate self-regulated learning of high school students. Behaviour & Information Technology, 37(12), 1237–1251. https://doi-org.libproxy.wlu.ca/10.1080/0144929X.2018.1496275 
